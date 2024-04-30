@@ -1,3 +1,20 @@
+
+# BLOCKCHAIN ​​FOR KIDS
+seeks to find the path to early adoption and education on the use of the ecosystem and decentralized technologies
+
+**LIVE DEMO** https://edurevi.com/blockchainforkids
+
+Smart Contracts Deployed & Verified on **zk Scroll** Network:
+
+**OpeZeppelin** For NFTs Prizes of the Game:
+Smart contract: 0xc7C9b74C736F9183601781E298D25f74B56e82fD
+https://sepolia.scrollscan.com/tx/0x7c52aceb1f168166c7bb3473db92c49b90a607f483d17961ec908259c1f46821
+
+**Chainlink Feed** 
+Smart contract:  0x0b7212443Eb6d4Bd62Ae97c531aC78Df9E0f05D6
+https://sepolia.scrollscan.com/tx/0xbb6d0c12c6e9dcebc6c3d7ba2215985185ebc97172f2ac19eb22c15a9c870117
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
