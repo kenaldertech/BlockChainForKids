@@ -72,9 +72,9 @@ const Nft = () => {
 
   return (
     <div>
-      <Button onClick={connectMetamask}>Conectar con Metamask</Button>
-      <Button onClick={mintNft}>Mintear NFT</Button>
-      <Button onClick={getNftInfo}>Obtener Info del NFT Minteado</Button>
+      <Button onClick={connectMetamask}>Connect Metamask</Button>
+      <Button onClick={mintNft}>Mint NFT</Button>
+      <Button onClick={getNftInfo}>Info of the Minted NFT</Button>
     </div>
   );
 };
