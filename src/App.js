@@ -6,6 +6,7 @@ import GameBlockchain from './components/GameBlockchain';
 import Game1 from './components/game1';
 import MetaMaskConnector from './components/MetaMaskConnector';
 import Nft from './components/Nft';
+import Game2 from './components/game2';
 
 function App() {
   return (
@@ -17,7 +18,10 @@ function App() {
       <div>
       <Game1/>
       </div>
-      <Nft/>
+      <div>
+      <Game2/>
+      </div>
+    
   </div>
 
 
