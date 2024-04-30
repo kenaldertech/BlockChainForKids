@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 // Importa las imágenes necesarias
 import fondoJuego from '../assets/fondo_juego.png';
-import busImagen from '../assets/bus.png';
+import busImagen from '../assets/bus.gif';
 import logoScrollImagen from '../assets/logos_scroll.gif';
 
 // Estilos para el contenedor principal
@@ -50,10 +50,11 @@ const SendButton = styled.button`
 // Estilos para el texto de recogida de RollUps
 const LogsCollectedText = styled.div`
   position: absolute;
+  font-family: arial black;
   top: 20px;
   left: 20px;
   color: #fff;
-  font-size: 32px;
+  font-size: 2rem;
   background-color: #ff1493; /* Fondo rosado */
   padding: 10px 20px;
   border-radius: 10px;
@@ -61,9 +62,13 @@ const LogsCollectedText = styled.div`
 
 // Estilo para el componente del título
 const Title = styled.h1`
-  font-family: sans-serif;
+  font-family: arial black;
   font-size: 3rem;
   color: #ffffff; /* Color del texto blanco */
+  drop-shadow: 10px
+  background-color: #ff1493; /* Fondo rosado */
+  padding: 10px 20px;
+  border-radius: 10px;
 `;
 
 
