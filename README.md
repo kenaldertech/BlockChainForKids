@@ -1,7 +1,7 @@
 # BLOCKCHAIN ​​FOR KIDS
 seeks to find the path to early adoption and education on the use of the ecosystem and decentralized technologies
 
-**LIVE DEMO** https://edurevi.com/blockchainforkids
+**LIVE DEMO** https://edurevi.com/blockchainforkids 
 
 Smart Contracts Deployed & Verified on **zk Scroll** Network:
 
